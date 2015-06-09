@@ -1,0 +1,6 @@
+/.idea
+/dotNetBuild-agent/target
+/dotNetBuild-common/target
+/dotNetBuild-server/target
+/build/target
+/target
