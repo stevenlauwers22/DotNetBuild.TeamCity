@@ -13,7 +13,7 @@
   <td>
     <props:textProperty name="${keys.assemblyKey}" className="longField"/>
     <span class="error" id="error_${keys.assemblyKey}"></span>
-    <span class="smallNote">The assembly containing your build script, relative from the checkout directory<./span>
+    <span class="smallNote">The assembly containing your build script, relative from the checkout directory</span>
   </td>
 </tr>
 <tr>
